@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/znLh41m/chef-holding-pan-with-fire-inside.jpg",
+    "chef_name": "Li Ming",
+    "years_of_experience": 10,
+    "num_of_recipes": 5,
+    "num_of_likes": 1000,
+    "description": "Li Ming is a renowned chef in China, known for his expertise in traditional Chinese cuisine. He has worked in top restaurants in Beijing and Shanghai, and has won numerous awards for his cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/GxWWKvz/sharon-chen-L1-Zhj-K-R6uc-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. \n2. Add onion, garlic, and ground beef, and cook until the beef is browned. \n3. Add tomato sauce, diced tomatoes, Italian seasoning, salt, and pepper. \n4. Simmer for 20-30 minutes. \n5. Cook spaghetti according to package directions. \n6. Serve spaghetti topped with Bolognese sauce and Parmesan cheese."
+      },
+      {
+        "recipe_name": "Chicken Curry",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/NCNrqHQ/paul-hanaoka-k-Dr-Ep-X6-Yo-w-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. \n2. Add onion, garlic, and chicken, and cook until the chicken is browned. \n3. Add curry powder, cumin, coriander, salt, and pepper. \n4. Stir in diced tomatoes and chicken broth. \n5. Simmer for 20-30 minutes. \n6. Serve with rice or naan bread."
+      },
+      {
+        "recipe_name": "Beef Stroganoff",
+        "vitamins": ["Vitamin A", "Vitamin D"],
+        "picture": "https://i.ibb.co/g6VG37M/noahs-knight-5a-Ccw-PXe5l0-unsplash.jpg",
+        "cooking_method": "1. Cook egg noodles according to package directions. \n2. Heat oil in a large skillet over medium-high heat. \n3. Add sliced mushrooms, and cook until the mushrooms release their liquid. \n4. Add sliced beef, and cook until the beef is browned. \n5. Stir in beef broth, Worcestershire sauce, Dijon mustard, and salt. \n6. Simmer for 10-15 minutes. \n7. Stir in sour cream. \n8. Serve over cooked egg noodles."
+      },
+      {
+        "recipe_name": "Caprese Salad",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/VmYfr4S/mulan-sukrisno-NJw-FPHURw-NQ-unsplash.jpg",
+        "cooking_method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange tomato and mozzarella slices on a platter. \n3. Drizzle with olive oil and balsamic glaze. \n4. Season with salt and pepper. \n5. Top with fresh basil leaves."
+      },
+      {
+        "recipe_name": "Greek Salad",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/Sm16Fnz/matthieu-joannon-9ic-Mr-Hv-I-Q4-unsplash.jpg",
+        "cooking_method": "1. Chop tomatoes, cucumbers, and red onion. \n2. Slice Kalamata olives. \n3. Combine chopped vegetables and olives in a bowl. \n4. Crumble feta cheese over the top. \n5. Drizzle with olive oil and red wine vinegar. \n6. Season with salt and pepper."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/NNgMpXX/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background.jpg",
+    "chef_name": "Chen Wei",
+    "years_of_experience": 15,
+    "num_of_recipes": 5,
+    "num_of_likes": 1500,
+    "description": "Chen Wei is a master chef who has been cooking for over 15 years. He specializes in Sichuan cuisine and is known for his bold and spicy flavors. He has published several cookbooks and has been featured in top food magazines in China.",
+    "recipes": [
+      {
+        "recipe_name": "Ma Po Dou Fu",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/TqcCG70/martin-becker-7-Lc-TRUCOl-P0-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. \n2. Add onion, garlic, and ground beef, and cook until the beef is browned. \n3. Add tomato sauce, diced tomatoes, Italian seasoning, salt, and pepper. \n4. Simmer for 20-30 minutes. \n5. Cook spaghetti according to package directions. \n6. Serve spaghetti topped with Bolognese sauce and Parmesan cheese."
+      },
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/rkCkk42/marta-markes-lfgs-Lx-X17-QA-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. \n2. Add onion, garlic, and chicken, and cook until the chicken is browned. \n3. Add curry powder, cumin, coriander, salt, and pepper. \n4. Stir in diced tomatoes and chicken broth. \n5. Simmer for 20-30 minutes. \n6. Serve with rice or naan bread."
+      },
+      {
+        "recipe_name": "Dan Dan Noodles",
+        "vitamins": ["Vitamin A", "Vitamin D"],
+        "picture": "https://i.ibb.co/X49SyF5/logan-jeffrey-7-UYmk-S315-JU-unsplash.jpg",
+        "cooking_method": "1. Cook egg noodles according to package directions. \n2. Heat oil in a large skillet over medium-high heat. \n3. Add sliced mushrooms, and cook until the mushrooms release their liquid. \n4. Add sliced beef, and cook until the beef is browned. \n5. Stir in beef broth, Worcestershire sauce, Dijon mustard, and salt. \n6. Simmer for 10-15 minutes. \n7. Stir in sour cream. \n8. Serve over cooked egg noodles."
+      },
+      {
+        "recipe_name": "Hot Pot",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/KrW7svT/kyndall-ramirez-3-Hpyvy-PCj-PA-unsplash.jpg",
+        "cooking_method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange tomato and mozzarella slices on a platter. \n3. Drizzle with olive oil and balsamic glaze. \n4. Season with salt and pepper. \n5. Top with fresh basil leaves."
+      },
+      {
+        "recipe_name": "Dry-Fried Green Beans",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/mTVFdjC/kalyani-akella-v-CNLO20cuw-Y-unsplash.jpg",
+        "cooking_method": "1. Chop tomatoes, cucumbers, and red onion. \n2. Slice Kalamata olives. \n3. Combine chopped vegetables and olives in a bowl. \n4. Crumble feta cheese over the top. \n5. Drizzle with olive oil and red wine vinegar. \n6. Season with salt and pepper."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/g6Fcq5Y/male-chef-kitchen-cooking.jpg",
+    "chef_name": "Wang Xia",
+    "years_of_experience": 8,
+    "num_of_recipes": 5,
+    "num_of_likes": 800,
+    "description": "Wang Xia is a rising star in the culinary world, with a passion for blending traditional Chinese flavors with modern techniques. She has worked in several Michelin-starred restaurants and has been recognized for her innovative approach to cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Gong Bao Chicken",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/qNYfcN8/jie-wang-Xci-Y4hwqn-Nk-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. \n2. Add onion, garlic, and ground beef, and cook until the beef is browned. \n3. Add tomato sauce, diced tomatoes, Italian seasoning, salt, and pepper. \n4. Simmer for 20-30 minutes. \n5. Cook spaghetti according to package directions. \n6. Serve spaghetti topped with Bolognese sauce and Parmesan cheese."
+      },
+      {
+        "recipe_name": "Steamed Fish with Ginger and Scallions",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/LCH3LLw/james-sutton-md-Wyghy08vg-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. \n2. Add onion, garlic, and chicken, and cook until the chicken is browned. \n3. Add curry powder, cumin, coriander, salt, and pepper. \n4. Stir in diced tomatoes and chicken broth. \n5. Simmer for 20-30 minutes. \n6. Serve with rice or naan bread."
+      },
+      {
+        "recipe_name": "Stir-Fried Beef and Broccoli",
+        "vitamins": ["Vitamin A", "Vitamin D"],
+        "picture": "https://i.ibb.co/yWpbsG0/hermes-rivera-Oz-BLe-Eg1mg-unsplash.jpg",
+        "cooking_method": "1. Cook egg noodles according to package directions. \n2. Heat oil in a large skillet over medium-high heat. \n3. Add sliced mushrooms, and cook until the mushrooms release their liquid. \n4. Add sliced beef, and cook until the beef is browned. \n5. Stir in beef broth, Worcestershire sauce, Dijon mustard, and salt. \n6. Simmer for 10-15 minutes. \n7. Stir in sour cream. \n8. Serve over cooked egg noodles."
+      },
+      {
+        "recipe_name": "Ma La Tang",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/tpmFD4F/hanxiao-xy2l-Pk-Pfv3w-unsplash.jpg",
+        "cooking_method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange tomato and mozzarella slices on a platter. \n3. Drizzle with olive oil and balsamic glaze. \n4. Season with salt and pepper. \n5. Top with fresh basil leaves."
+      },
+      {
+        "recipe_name": "Spring Rolls",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/48ympxx/hanxiao-Xv-JLh5-Py0-Pk-unsplash.jpg",
+        "cooking_method": "1. Chop tomatoes, cucumbers, and red onion. \n2. Slice Kalamata olives. \n3. Combine chopped vegetables and olives in a bowl. \n4. Crumble feta cheese over the top. \n5. Drizzle with olive oil and red wine vinegar. \n6. Season with salt and pepper."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/jW8djDn/happy-cook-smelling-salad-with-meat-plate.jpg",
+    "chef_name": "Liu Wei",
+    "years_of_experience": 12,
+    "num_of_recipes": 5,
+    "num_of_likes": 1200,
+    "description": "Liu Wei is a veteran chef who has dedicated his career to preserving the traditional flavors of Chinese cuisine. He has traveled across China to learn from local chefs and has incorporated their techniques into his cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Braised Pork Belly",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/Qvs6VD4/hanxiao-q7x-Wt7cov-QY-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. \n2. Add onion, garlic, and ground beef, and cook until the beef is browned. \n3. Add tomato sauce, diced tomatoes, Italian seasoning, salt, and pepper. \n4. Simmer for 20-30 minutes. \n5. Cook spaghetti according to package directions. \n6. Serve spaghetti topped with Bolognese sauce and Parmesan cheese."
+      },
+      {
+        "recipe_name": "Fish-Flavored Eggplant",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/RHwgHsG/hanxiao-M-St-ZNd-O7-Uw-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. \n2. Add onion, garlic, and chicken, and cook until the chicken is browned. \n3. Add curry powder, cumin, coriander, salt, and pepper. \n4. Stir in diced tomatoes and chicken broth. \n5. Simmer for 20-30 minutes. \n6. Serve with rice or naan bread."
+      },
+      {
+        "recipe_name": "Steamed Dumplings",
+        "vitamins": ["Vitamin A", "Vitamin D"],
+        "picture": "https://i.ibb.co/y0Qy2fp/hanxiao-AAGh2-M004-X4-unsplash.jpg",
+        "cooking_method": "1. Cook egg noodles according to package directions. \n2. Heat oil in a large skillet over medium-high heat. \n3. Add sliced mushrooms, and cook until the mushrooms release their liquid. \n4. Add sliced beef, and cook until the beef is browned. \n5. Stir in beef broth, Worcestershire sauce, Dijon mustard, and salt. \n6. Simmer for 10-15 minutes. \n7. Stir in sour cream. \n8. Serve over cooked egg noodles."
+      },
+      {
+        "recipe_name": "Beijing Roast Duck",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/5s8dp4F/chinh-le-duc-Dghn39rncf-Y-unsplash.jpg",
+        "cooking_method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange tomato and mozzarella slices on a platter. \n3. Drizzle with olive oil and balsamic glaze. \n4. Season with salt and pepper. \n5. Top with fresh basil leaves."
+      },
+      {
+        "recipe_name": "Scallion Pancakes",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/cC91q51/andres-rodriguez-m-KP2bl0-R0pk-unsplash.jpg",
+        "cooking_method": "1. Chop tomatoes, cucumbers, and red onion. \n2. Slice Kalamata olives. \n3. Combine chopped vegetables and olives in a bowl. \n4. Crumble feta cheese over the top. \n5. Drizzle with olive oil and red wine vinegar. \n6. Season with salt and pepper."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/jTdzT7W/front-view-young-male-cook-white-cook-suit-white-head-cap-with-raised-finger.jpg",
+    "chef_name": "Zhang Yang",
+    "years_of_experience": 6,
+    "num_of_recipes": 5,
+    "num_of_likes": 600,
+    "description": "Zhang Yang is a young and talented chef who has already made a name for herself in the culinary world. She specializes in Cantonese cuisine and has a knack for creating dishes that are both beautiful and delicious. Her cooking is often described as a celebration of flavor and texture.",
+    "recipes": [
+      {
+        "recipe_name": "Cantonese Style Steamed Fish",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/Sm16Fnz/matthieu-joannon-9ic-Mr-Hv-I-Q4-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. \n2. Add onion, garlic, and ground beef, and cook until the beef is browned. \n3. Add tomato sauce, diced tomatoes, Italian seasoning, salt, and pepper. \n4. Simmer for 20-30 minutes. \n5. Cook spaghetti according to package directions. \n6. Serve spaghetti topped with Bolognese sauce and Parmesan cheese."
+      },
+      {
+        "recipe_name": "Sweet and Sour Pork",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/TqcCG70/martin-becker-7-Lc-TRUCOl-P0-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. \n2. Add onion, garlic, and chicken, and cook until the chicken is browned. \n3. Add curry powder, cumin, coriander, salt, and pepper. \n4. Stir in diced tomatoes and chicken broth. \n5. Simmer for 20-30 minutes. \n6. Serve with rice or naan bread."
+      },
+      {
+        "recipe_name": "Hainanese Chicken Rice",
+        "vitamins": ["Vitamin A", "Vitamin D"],
+        "picture": "https://i.ibb.co/VmYfr4S/mulan-sukrisno-NJw-FPHURw-NQ-unsplash.jpg",
+        "cooking_method": "1. Cook egg noodles according to package directions. \n2. Heat oil in a large skillet over medium-high heat. \n3. Add sliced mushrooms, and cook until the mushrooms release their liquid. \n4. Add sliced beef, and cook until the beef is browned. \n5. Stir in beef broth, Worcestershire sauce, Dijon mustard, and salt. \n6. Simmer for 10-15 minutes. \n7. Stir in sour cream. \n8. Serve over cooked egg noodles."
+      },
+      {
+        "recipe_name": "Char Siu",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/mTVFdjC/kalyani-akella-v-CNLO20cuw-Y-unsplash.jpg",
+        "cooking_method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange tomato and mozzarella slices on a platter. \n3. Drizzle with olive oil and balsamic glaze. \n4. Season with salt and pepper. \n5. Top with fresh basil leaves."
+      },
+      {
+        "recipe_name": "Shrimp Wontons",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/yWpbsG0/hermes-rivera-Oz-BLe-Eg1mg-unsplash.jpg",
+        "cooking_method": "1. Chop tomatoes, cucumbers, and red onion. \n2. Slice Kalamata olives. \n3. Combine chopped vegetables and olives in a bowl. \n4. Crumble feta cheese over the top. \n5. Drizzle with olive oil and red wine vinegar. \n6. Season with salt and pepper."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/HPh2VWn/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy.jpg",
+    "chef_name": "Yang Chen",
+    "years_of_experience": 9,
+    "num_of_recipes": 5,
+    "num_of_likes": 900,
+    "description": "Yang Chen is a chef who is passionate about using fresh, locally-sourced ingredients in his cooking. He believes that the key to great Chinese cuisine is to use high-quality ingredients and to let their natural flavors shine through.",
+    "recipes": [
+      {
+        "recipe_name": "Stir-Fried Shrimp with Snow Peas",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/cC91q51/andres-rodriguez-m-KP2bl0-R0pk-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. \n2. Add onion, garlic, and ground beef, and cook until the beef is browned. \n3. Add tomato sauce, diced tomatoes, Italian seasoning, salt, and pepper. \n4. Simmer for 20-30 minutes. \n5. Cook spaghetti according to package directions. \n6. Serve spaghetti topped with Bolognese sauce and Parmesan cheese."
+      },
+      {
+        "recipe_name": "Moo Shu Pork",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/GxWWKvz/sharon-chen-L1-Zhj-K-R6uc-unsplash.jpg",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. \n2. Add onion, garlic, and chicken, and cook until the chicken is browned. \n3. Add curry powder, cumin, coriander, salt, and pepper. \n4. Stir in diced tomatoes and chicken broth. \n5. Simmer for 20-30 minutes. \n6. Serve with rice or naan bread."
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "vitamins": ["Vitamin A", "Vitamin D"],
+        "picture": "https://i.ibb.co/KrW7svT/kyndall-ramirez-3-Hpyvy-PCj-PA-unsplash.jpg",
+        "cooking_method": "1. Cook egg noodles according to package directions. \n2. Heat oil in a large skillet over medium-high heat. \n3. Add sliced mushrooms, and cook until the mushrooms release their liquid. \n4. Add sliced beef, and cook until the beef is browned. \n5. Stir in beef broth, Worcestershire sauce, Dijon mustard, and salt. \n6. Simmer for 10-15 minutes. \n7. Stir in sour cream. \n8. Serve over cooked egg noodles."
+      },
+      {
+        "recipe_name": "Sichuan Boiled Beef",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/tpmFD4F/hanxiao-xy2l-Pk-Pfv3w-unsplash.jpg",
+        "cooking_method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange tomato and mozzarella slices on a platter. \n3. Drizzle with olive oil and balsamic glaze. \n4. Season with salt and pepper. \n5. Top with fresh basil leaves."
+      },
+      {
+        "recipe_name": "Sticky Rice Dumplings",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "picture": "https://i.ibb.co/y0Qy2fp/hanxiao-AAGh2-M004-X4-unsplash.jpg",
+        "cooking_method": "1. Chop tomatoes, cucumbers, and red onion. \n2. Slice Kalamata olives. \n3. Combine chopped vegetables and olives in a bowl. \n4. Crumble feta cheese over the top. \n5. Drizzle with olive oil and red wine vinegar. \n6. Season with salt and pepper."
+      }
+    ]
+  }
+]
